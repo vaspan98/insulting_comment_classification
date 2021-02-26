@@ -26,7 +26,7 @@ Sklearn, Pandas, Numpy, Nltk
     * Word Counts Input Vectors (Best parametres combination)
     * POS & Tf-idf Input Vectors
     
-We evaluate the performance of each method using the Accuracy and F1-score metrics on the test set.
+We evaluate the performance of each Classifier using the Accuracy and F1-score metrics on the test set.
     
 ## Tips
 Add the 'data' directory in your 'gdrive/My Drive/Colab Notebooks/' path to execute correctly
