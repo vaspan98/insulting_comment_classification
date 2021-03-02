@@ -4,7 +4,7 @@ Experimentation with multiple Classification methods to decide if a comment is i
 ## Platform
 Google Collab
 
-## Language
+## Programming Language
 Python
 
 ## Libraries
@@ -33,6 +33,3 @@ Add the `data` directory in your `gdrive/My Drive/Colab Notebooks/` path to exec
 
 ## Author
 Vassilis Panagakis
-
-## Date
-June 2020
